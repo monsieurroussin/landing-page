@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Importing component files */
+@import url("components/banners.css");
+@import url("components/cards.css");
+@import url("components/container.css");
+@import url("components/buttons.css");
+
+
+body {
+  background-color: #F8F8F8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+h1, h2, h3, h4, p {
+  font-family: 'Poppins';
+  color: #000814;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 35px;
+}
+
+img {
+  width: 100px;
+  size: cover;
+}

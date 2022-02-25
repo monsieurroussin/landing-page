@@ -1,0 +1,11 @@
+.banner {
+  background-position: center;
+  background-size: cover;
+  height: 450px;
+  padding-top: 200px;
+}
+
+#banner h1 {
+  text-align: left;
+  color: white;
+}
